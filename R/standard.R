@@ -1,6 +1,4 @@
-library(ggplot2)
-library(shiny)
-library(dplyr)
+
 standard_data<-read.csv ("Book3.csv",header=TRUE)
 str(standard_data)
 
